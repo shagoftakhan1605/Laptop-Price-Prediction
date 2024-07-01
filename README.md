@@ -25,7 +25,7 @@ The dataset used for this project should be included in the repository or you ca
 1) **Laptop_Price_Prediction_Web.ipynb:** Jupyter Notebook for data preprocessing, model training, and evaluation.
 2) **requirements.txt:** List of required Python packages.
 3) **laptopData.csv:** Directory containing the dataset (ensure the correct path in your notebooks).
-4) **image.jpg:** IMage that has been used in the GUI to make it more visually appealing.
+4) **image.jpg:** ImMage that has been used in the GUI to make it more visually appealing.
 
 ## Example
 Here is an example of how to use the GUI:
